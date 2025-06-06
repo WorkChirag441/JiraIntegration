@@ -5,7 +5,7 @@ cd Jira-Interview-Tasks
 composer install
 
 # 3. Copy .env and set credentials
-cp .env.example .env
+cp .env.backup.env
 
 # 4. Generate app key
 Change Jira Credentials in .env
